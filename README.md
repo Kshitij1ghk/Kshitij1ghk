@@ -6,22 +6,27 @@ I'm a passionate developer dedicated to mastering full-stack development with a 
 
 ## 🚀 Featured Projects
 
-### 📚 Learning Repositories
+### 🔷 **C# Projects**
 
-#### 🔷 **C# Journey**
-- **[C-Sharp-Basics](https://github.com/StudyGrillTogether/CSharp-Basics)** - Learning absolute basics of C#
+#### 💼 Real-World Applications
+- **[Restaurant-POS-Order-Management-System](https://github.com/Kshitij1ghk/Restaurant-POS-Order-Management-System)** - Full-featured POS system for restaurant order management
+- **[LibraryManagementSystem](https://github.com/Kshitij1ghk/LibraryManagementSystem)** - Complete library management solution
+- **[PersonalExepenseTracker](https://github.com/Kshitij1ghk/PersonalExepenseTracker)** - Personal finance tracking application
+
+#### 📚 Learning Repositories
+- **[CSharp-Basics](https://github.com/StudyGrillTogether/CSharp-Basics)** - Learning absolute basics of C#
 - **[C-SHARP-2](https://github.com/StudyGrillTogether/C-SHARP-2)** - Dwelling deeper into C#
 - **[DATA-STRUCTURES-AND-ALGORITHMS](https://github.com/StudyGrillTogether/DATA-STRUCTURES-AND-ALGORITHMS)** - DSA concepts in C#
 - **[C-Sharp-DATABASE-MANAGEMENT](https://github.com/StudyGrillTogether/C-Sharp-DATABASE-Management)** - Learning C# database management basics
 
-#### 🌐 **Web Development**
+### 🌐 **Web Development**
 - **[Learn-HTML](https://github.com/StudyGrillTogether/Learn-HTML)** - CSS and HTML (73.3% HTML | 26.7% CSS)
 - **[JavaScript-Basics](https://github.com/StudyGrillTogether/JavaScript-Basics)** - Basics of JavaScript (99.7% HTML | 0.3% JavaScript)
 - **[Portfolio](https://github.com/Kshitij1ghk/Portfolio)** - Personal portfolio website (59.9% CSS | 40.1% HTML)
 
-#### 🗄️ **Database & Backend**
+### 🗄️ **Database & Backend**
 - **[DBMS](https://github.com/StudyGrillTogether/DBMS)** - Practice SQL queries and database design while learning DBMS concepts
-- **[Restaurant-POS-Order-Management-System](https://github.com/Kshitij1ghk/Restaurant-POS-Order-Management-System)** - Full-stack C# application
+- **[C-Sharp-DATABASE-MANAGEMENT](https://github.com/StudyGrillTogether/C-Sharp-DATABASE-Management)** - Learning C# database management basics
 
 #### 🐍 **Other Languages**
 - **[Python](https://github.com/Kshitij1ghk/python)** - Python learning and projects
@@ -43,6 +48,8 @@ I'm a passionate developer dedicated to mastering full-stack development with a 
 - 📊 Data Structures & Algorithms
 - 🎨 Web Design & Development
 - 💼 POS Systems & Business Applications
+- 📚 Library Management Systems
+- 💰 Financial Tracking Applications
 
 ---
 
@@ -50,6 +57,9 @@ I'm a passionate developer dedicated to mastering full-stack development with a 
 
 | Repository | Language | Focus Area |
 |---|---|---|
+| Restaurant-POS-Order-Management-System | C# | Real-World Application |
+| LibraryManagementSystem | C# | Real-World Application |
+| PersonalExepenseTracker | C# | Real-World Application |
 | CSharp-Basics | C# | Fundamentals |
 | C-SHARP-2 | C# | Advanced Concepts |
 | DATA-STRUCTURES-AND-ALGORITHMS | C# | DSA |
@@ -58,7 +68,6 @@ I'm a passionate developer dedicated to mastering full-stack development with a 
 | JavaScript-Basics | HTML/JS | Frontend Interactivity |
 | DBMS | SQL | Database Design & Queries |
 | Portfolio | HTML/CSS | Web Design |
-| Restaurant-POS | C# | Full-Stack Application |
 | Python | Python | General Programming |
 
 ---
@@ -70,6 +79,7 @@ I'm a passionate developer dedicated to mastering full-stack development with a 
 - ✅ Design and optimize databases
 - ✅ Implement data structures and algorithms
 - ✅ Create responsive web designs
+- ✅ Develop real-world business applications
 - 🔄 Explore advanced backend concepts
 - 🔄 Develop scalable applications
 
@@ -77,8 +87,9 @@ I'm a passionate developer dedicated to mastering full-stack development with a 
 
 ## 📈 Repository Statistics
 
-- **Total Repositories**: 10
-- **Primary Language**: C# (60% of projects)
+- **Total Repositories**: 12
+- **Primary Language**: C# (70% of projects)
+- **Real-World Applications**: 3 full-featured projects
 - **Web Development**: 30% of projects
 - **Database & Backend**: Integrated across multiple projects
 
@@ -103,6 +114,7 @@ I'm part of the **StudyGrillTogether** organization, where we collaborate on lea
 - 💪 Strong foundation in C# and web technologies
 - 🏗️ Experience building full-stack applications
 - 📊 Database design and optimization skills
+- 💼 Real-world project development experience
 - 🚀 Passionate about clean code and best practices
 
 ---
