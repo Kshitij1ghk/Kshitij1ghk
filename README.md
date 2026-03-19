@@ -9,9 +9,9 @@ I'm a passionate developer dedicated to mastering full-stack development with a 
 ### 🔷 **C# Projects**
 
 #### 💼 Real-World Applications
-- **[Restaurant-POS-Order-Management-System](https://github.com/Kshitij1ghk/Restaurant-POS-Order-Management-System)** - Full-featured POS system for restaurant order management
 - **[LibraryManagementSystem](https://github.com/Kshitij1ghk/LibraryManagementSystem)** - Complete library management solution
 - **[PersonalExepenseTracker](https://github.com/Kshitij1ghk/PersonalExepenseTracker)** - Personal finance tracking application
+- 🔄**[Restaurant-POS-Order-Management-System](https://github.com/Kshitij1ghk/Restaurant-POS-Order-Management-System)** - Full-featured POS system for restaurant order management
 
 #### 📚 Learning Repositories
 - **[CSharp-Basics](https://github.com/StudyGrillTogether/CSharp-Basics)** - Learning absolute basics of C#
